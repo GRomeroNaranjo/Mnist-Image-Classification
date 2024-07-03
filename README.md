@@ -4,4 +4,4 @@ This project aims to experiment with convolutional neural network in order to pr
 
 ## The Process
 
-First we load the dataset using the load_data() function within tensorflow. Once that is ready we divide the data into X_train, y_train, X_test, y_test. This variables will help us validate and train our model. Then once this is complete we normalize and reshape the images so that it is read to be fed into the model. Then we build our sequential convolutional neural network using both the ReLU and Softmax activation functions. Then we compile our network using adam as our optimizer and finall we train it. Then we can test our model with new data to see it's approach on different information.
+First we load the dataset using the load_data() function within tensorflow. Once, that is ready we divide the data into X_train, y_train, X_test, y_test. These variables will help us validate and train our model. After this, we normalize and reshape the images so that they are ready to be fed into the model. And finally we build our sequential convolutional neural network using both the ReLU and Softmax activation functions and compile the network using adam as our optimizer.
