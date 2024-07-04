@@ -1,7 +1,7 @@
 
 # Mnist Image Classification
 
-The goal is by using a highly known deep learning dataset we can correctly configure an architecture which is streamlined and optimized to delivering accuracte predictions. While using modern day libraries we can efficiently train our model using a Convolutional Neural Network. 
+The goal is by using a highly known deep learning dataset we can correctly configure an architecture which is streamlined and optimized to delivering accuracte predictions for digit recognition. While using modern day libraries we can efficiently train our model using a Convolutional Neural Network. 
 
 ## The Process
 
