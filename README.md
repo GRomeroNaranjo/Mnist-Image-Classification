@@ -5,4 +5,4 @@ The goal is by using a highly known deep learning dataset we can correctly confi
 
 ## The Process
 
-First we load the dataset using the load_data() function within tensorflow. Once, that is ready we divide the data into X_train, y_train, X_test, y_test. These variables will help us validate and train our model. After this, we normalize and reshape the images so that they are ready to be fed into the model. And finally we build our sequential convolutional neural network using both the ReLU and Softmax activation functions and compile the network using adam as our optimizer.
+First we load the dataset using the load_data() function within tensorflow. Once, that is ready we divide the data into X_train, y_train, X_test, y_test. These variables will help us validate and train our model. After this, we normalize and reshape the images so that they are ready to be fed into the model. And finally we build our sequential convolutional neural network using the ReLU, Softmax activation functions and using adam as our optimizer.
